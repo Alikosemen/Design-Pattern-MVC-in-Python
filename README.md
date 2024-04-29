@@ -30,6 +30,8 @@ This project implements a Test Management System (TMS) with the following functi
 
 - **Search by Component**: The system provides a functionality where the user can search by component name to display a list of all defects logged against that component. This is useful for analyzing the frequency and severity of issues associated with particular parts of a project.
 
+  ![Test Management System SQLite DB](/TMS_DB_Photo.png)
+
 These features are implemented to enhance the efficiency and usability of managing defects within software development and testing processes.
 
 
