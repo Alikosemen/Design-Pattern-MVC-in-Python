@@ -26,11 +26,13 @@ Each folder in this repository contains a separate application implementing the 
 
 This project implements a Test Management System (TMS) with the following functionalities:
 
+ ![Test Management System SQLite DB](/TMS_DB_Photo.png)
+
 - **Query a Specific Defect**: When a user queries for a particular defect, the system displays the summary of the defect in a prescribed format. This allows for quick and detailed viewing of defect specifics directly through the interface.
 
 - **Search by Component**: The system provides a functionality where the user can search by component name to display a list of all defects logged against that component. This is useful for analyzing the frequency and severity of issues associated with particular parts of a project.
 
-  ![Test Management System SQLite DB](/TMS_DB_Photo.png)
+ 
 
 These features are implemented to enhance the efficiency and usability of managing defects within software development and testing processes.
 
