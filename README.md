@@ -1,8 +1,8 @@
-# MVC Applications in Python
+# MVC Application in Python
 
 ## Overview
 
-This repository is dedicated to showcasing Model-View-Controller (MVC) applications developed in Python. The MVC architecture is a widely used architectural pattern in software engineering, especially useful for designing applications with a clear separation of concerns.
+This repository is dedicated to showcasing Model-View-Controller (MVC) application developed in Python. The MVC architecture is a widely used architectural pattern in software engineering, especially useful for designing applications with a clear separation of concerns.
 
 ## About MVC
 
@@ -18,9 +18,9 @@ Model–View–Controller (MVC) is a software architecture, currently considered
 
 *Diagram illustrating the MVC pattern. (Image source: Wikimedia Commons)*
 
-## Projects in This Repository
+## Project in This Repository
 
-Each folder in this repository contains a separate application implementing the MVC pattern in Python. Here are some of the projects you can find:
+-------------------------------
 
 ### Test Management System
 
@@ -41,7 +41,7 @@ Feel free to explore the projects and enhance them with your contributions.
 
 ## Getting Started
 
-To get started with these projects, clone the repository and navigate to each project folder:
+To get started with the project, clone the repository and navigate to project folder:
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
